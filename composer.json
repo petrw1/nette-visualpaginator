@@ -1,18 +1,7 @@
 {
-    "name": "srigi/nette-visualpaginator",
+    "name": "petrw1/nette-visualpaginator",
     "description": "Addon to display paginator in Nette webapplications",
     "version": "1.0.1",
-
-    "authors": [
-        {
-            "name": "Igor Hlina",
-            "email": "srigi@srigi.sk"
-        },
-        {
-            "name": "David Grudl",
-            "email": "david@grudl.com"
-        }
-    ],
 
     "license": "BSD-3-Clause",
 
